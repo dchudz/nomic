@@ -1,3 +1,6 @@
+import sitecustomize
+print(sitecustomize.__file__)
+
 import os
 import random
 import requests
